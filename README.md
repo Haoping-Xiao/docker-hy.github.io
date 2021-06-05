@@ -1,3 +1,3 @@
-# [Course material](https://docker-hy.github.io)
+Fork from https://github.com/docker-hy/docker-hy.github.io, which is the course material of devops with docker
 
-If you have any questions send email jami.kousa@helsinki.fi or send message in course telegram group.
+Attemps to deploy course portal to heroku. Check it out at https://docker-hy-haoping.herokuapp.com/. It is the same as https://devopswithdocker.com/
